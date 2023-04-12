@@ -1,6 +1,9 @@
 # Abbreviator -> a9r
 
 ## Install
+```sh
+cargo install --git https://github.com/Soyukke/a9r
+```
 
 ## Usage
 
